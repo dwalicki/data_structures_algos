@@ -1,3 +1,6 @@
+INITIAL_CAPACITY = 40
+
+
 class Node:
     def __init__(self, key, value):
         self.key = key
